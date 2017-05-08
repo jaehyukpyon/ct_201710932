@@ -2,6 +2,7 @@
 wn=turtle.Screen()
 t1=turtle.Turtle()
 wn.bgpic("C:\\Users\\Jaehyuk\\Downloads\\mazegif.gif")
+t1.speed(5)
 t1.penup()
 t1.goto(0,200)
 t1.right(180)
